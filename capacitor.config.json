@@ -1,0 +1,24 @@
+{
+  "appId": "com.titanhub.app",
+  "appName": "TITAN HUB",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "allowNavigation": [
+      "supportive-contentment-production-a299.up.railway.app",
+      "web-production-9c446.up.railway.app",
+      "laroza1.lat",
+      "api.aladhan.com",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com",
+      "cdn.jsdelivr.net",
+      "i.ytimg.com",
+      "www.ashefaa.com"
+    ]
+  },
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#0b0d14"
+  }
+}
